@@ -3,11 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "7stepsauna"
+  title: ""
   navbar:
     left:
       - href: index.qmd
-        text: Home
 
 format:
   html:
