@@ -4,9 +4,9 @@ project:
 
 website:
   title: ""
-  navbar:
-    left:
-      - href: index.qmd
+  #navbar:
+    #left:
+      #- href: index.qmd
 
 format:
   html:
